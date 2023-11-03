@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filipplesko
-- 🌱 I’m currently studying at Vysoké Učení Technické v Brně
-- 📫 filip.plesko@vutbr.cz
+- 🌱 I’m Phd. student at Brno University of Technology
+- 📫 iplesko@fit.vut.cz
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 👀 I’m interested in ---->
